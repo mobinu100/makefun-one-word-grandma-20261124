@@ -1,0 +1,7 @@
+{
+  "name": "makefun-one-word-grandma-20261124",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One Word From Grandma — the single word a grandma would text about AI, written to /output/entry.txt by main.ts (Node 22, deterministic, no network). Entry for make.fun competition u-0xkianno-one-word-from-grandma-f04bed16."
+}
